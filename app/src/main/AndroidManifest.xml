@@ -35,6 +35,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         
         <uses-library android:required="true" android:name="com.google.android.maps" />
 
